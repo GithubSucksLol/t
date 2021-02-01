@@ -2,6 +2,10 @@
 
 All notable changes to the "true-black-theme" extension will be documented in this file.
 
+## 1.0.3
+
+- Fix Theme token colors (syntax highlighting)
+
 ## 1.0.2
 
 - Fix Theme properties
