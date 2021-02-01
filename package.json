@@ -1,0 +1,22 @@
+{
+    "name": "true-black-theme",
+    "publisher": "Elton47",
+    "displayName": "True Black+ Theme",
+    "description": "True Black extending default Dark+ Theme from VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "True Black+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/True Black+-color-theme.json"
+            }
+        ]
+    }
+}
