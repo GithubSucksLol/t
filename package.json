@@ -1,9 +1,12 @@
 {
     "name": "true-black-theme",
     "publisher": "Elton47",
+    "repository": {
+        "url": "https://dev.azure.com/Elton47/True%20Black%20Theme/_git/True%20Black%20Theme"
+    },
     "displayName": "True Black+ Theme",
-    "description": "True Black extending default Dark+ Theme from VSCode",
-    "version": "0.0.1",
+    "description": "Remixed from the official VSCode Dark+ Theme",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.52.0"
     },
