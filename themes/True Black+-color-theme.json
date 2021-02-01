@@ -1,6 +1,7 @@
 {
 	"name": "True Black+",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.activeBackground": "#000000",
 		"activityBar.background": "#000000",

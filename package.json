@@ -6,7 +6,7 @@
     },
     "displayName": "True Black+ Theme",
     "description": "Remixed from the official VSCode Dark+ Theme",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.52.0"
     },
