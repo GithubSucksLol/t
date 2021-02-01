@@ -2,6 +2,10 @@
 
 All notable changes to the "true-black-theme" extension will be documented in this file.
 
+## 1.0.5
+
+- Fix editor and minimap text selection highlight background
+
 ## 1.0.4
 
 - Enable Semantic Highlighting to match with Default Dark+ (VSCode latest syntax highlighting)
