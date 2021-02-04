@@ -2,6 +2,10 @@
 
 All notable changes to the "true-black-theme" extension will be documented in this file.
 
+## 1.0.6
+
+- Fix selection background outside editor
+
 ## 1.0.5
 
 - Fix editor and minimap text selection highlight background
