@@ -21,5 +21,10 @@
                 "path": "./themes/True Black+-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish",
+        "package-and-publish": "npm run package && npm run publish"
     }
 }
